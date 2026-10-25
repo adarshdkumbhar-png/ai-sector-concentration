@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Who Can Still Build Frontier AI?", layout="wide")
 
-DATA_PATH = "data/notable_ai_models.csv"
+DATA_PATH = "notable_ai_models.csv"
 SECTOR_ORDER = ["Industry", "Industry–academia collaboration", "Academia", "Other"]
 SECTOR_COLOURS = ["#1f6feb", "#8250df", "#e3a008", "#9aa0a6"]
 
